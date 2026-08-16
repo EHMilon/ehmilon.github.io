@@ -1,2 +1,2 @@
-google.com, pub-1219988537279853, DIRECT, f08c47fec0942fa0, com.ai.omniai
+google.com, pub-8105639536081241, DIRECT, f08c47fec0942fa0, com.ai.omniai
 facebook.com, 2169406090679242, DIRECT, c3e20eee3f780d68
